@@ -117,7 +117,7 @@ function draw() {
 			text("with a twist", 120, 380);
 			fill("black");
 			textSize(20);
-			text("-----jump is space bar------>play", 110, 420);
+			text("jump is space bar hold D to play", 110, 420);
 			fill("black");
 			textSize(20);
 			text("left = a   (M for music)   right = d", 100, 200);
